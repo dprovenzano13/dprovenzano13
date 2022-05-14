@@ -1,4 +1,4 @@
-<img src="Images/ReadMe%20White" width=100%>
+<img src="/images/ReadMe%20IMG%20White.jpg" width=100%>
 <!-- <h1 align="center">Hi 👋, I'm David Provenzano</h1> -->
 <h3 align="center">A passionate frontend developer from Orlando, FL</h3>
 
